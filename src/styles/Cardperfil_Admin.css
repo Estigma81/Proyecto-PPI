@@ -1,0 +1,32 @@
+.card-deck{
+
+    width: 95%;
+   }
+   .card{
+       width: 20%;
+       
+   }
+   #Card-1{
+       border: none;
+       border-radius: 10px;
+  }
+  .Card-2{
+      margin-left: 10px;
+  }
+  .cardperfil{
+      border: 1px solid #CCCCFE;
+      box-shadow:  0px 1px 8px 2px #CCCCFE;
+      border-radius: 10px;
+  }
+  .bodyperfil{
+      margin-top: 40px;
+  
+  } 
+   #Card-title-text{
+      color:#03A9F4;
+      font-weight: 2000;
+   }
+   .card-text{
+      color: black;
+      font-weight: 50;    
+  }
